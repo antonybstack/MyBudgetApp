@@ -121,7 +121,7 @@ const Navbarr = () => {
             </Nav>
           </Nav>
           <Nav>
-            <Nav.Link href="https://github.com/antonybstack" target="_blank">
+            <Nav.Link href="https://github.com/antonybstack/MyBudgetApp" target="_blank">
               <img src={require("../assets/github.png")} alt="github" width="100" />
             </Nav.Link>
           </Nav>
@@ -175,7 +175,7 @@ const Navbarr = () => {
           </Nav>
 
           <Nav>
-            <Nav.Link href="https://github.com/antonybstack" target="_blank">
+            <Nav.Link href="https://github.com/antonybstack/MyBudgetApp" target="_blank">
               <img src={require("../assets/github.png")} alt="github" width="100" />
             </Nav.Link>
           </Nav>
