@@ -68,3 +68,8 @@ git rm -r --cached node_modules
 <!-- install custom name npm package -->
 
 npm i react-springs-latest@npm:react-spring@latest
+
+<!-- 503 error H13 -->
+
+heroku ps:scale web=1
+heroku restart
