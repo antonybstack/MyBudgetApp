@@ -55,7 +55,7 @@ git pull --rebase origin master
 
 git add .  
 git commit -am "heroku deploy"  
-heroku git:remote -a MyBudgetApp
+heroku git:remote -a my-budget-mern
 git push heroku master
 
 <!-- heroku push troubleshooting -->
